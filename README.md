@@ -19,8 +19,19 @@
 </br>
 
 # 🔳​ View
-### 홈 화면 - 로그인 화면
-![image](https://github.com/gaeun120312/Foren/assets/92353486/3719666c-6555-4c04-be7a-80213cc62cf5)
+### 홈 화면 - 로그인 화면, 회원가입 화면
+![홈화면](https://github.com/gaeun120312/Foren/assets/92353486/5cbfa42a-93b1-4796-89b9-141dbc8b8d94)
+- 아이디랑 비밀번호가 빈칸인지 아닌지 확인
+- 로그인이 완료되면 메인 액티비티로, 실패하면 그대로
+- 회원가입 시, 빈칸인지 아닌지 확인 / 비밀번호는 7자리 이상 입력
+
+### 자유 게시판 화면
+![게시판](https://github.com/gaeun120312/Foren/assets/92353486/599c096a-2144-4ddc-903f-deff6b92bcd1)
+![게시판2](https://github.com/gaeun120312/Foren/assets/92353486/fb6a0725-5a40-4c61-bf27-1f544d836c99)
+![게시판3](https://github.com/gaeun120312/Foren/assets/92353486/af33888a-9c1e-4bf6-9fcf-c8a1f84e0aae)
+- 포스트 모양으로 리스트 설정
+- 내용이 있는지 확인 / 글 입력을 완료하면 유저가 있는지 확인하고 게시
+- POST 버튼을 누르면 유저이름과 메시지 내용을 가져와서 리스트에 올림
 
 </br>
 
